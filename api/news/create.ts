@@ -5,10 +5,10 @@ import fs from "fs-extra";
 
 // Presets
 
-const editDescriptionRouter = Express.Router();
+const createRouter = Express.Router();
 
 // Code
 
 // Exports
 
-export default editDescriptionRouter;
+export default createRouter;
