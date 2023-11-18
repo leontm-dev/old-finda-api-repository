@@ -4,7 +4,7 @@ import Express from "express";
 
 // Presets
 
-const validationRouter = Express.Router();
+const testingRouter = Express.Router();
 
 // API-Imports
 
@@ -12,4 +12,4 @@ const validationRouter = Express.Router();
 
 // Exports
 
-export default validationRouter;
+export default testingRouter;
